@@ -7,6 +7,6 @@ class Contoh1 extends CI_Controller
         echo"Nama saya Alpon Siyus
         Saya tingga di daerah Pontianak
         olah raga yang saya sukai adalah
-        Badminton";
+        Badminton dan Suka bernyanyi";
     }
 }  
